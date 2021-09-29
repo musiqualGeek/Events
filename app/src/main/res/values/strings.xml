@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Events</string>
+
+    <string name="report_at">Report At:</string>
+
+    <string name="tournament_1">Tournament 1</string>
+    <string name="venue_1">AI Warah Stadium</string>
+    <string name="game_1">AI Warah SC VS AL Khor SC</string>
+    <string name="schedule_1">22-May-2021, 7:00:00 AM</string>
+
+    <string name="tournament_2">Tournament 2</string>
+    <string name="venue_2">AI Khor Stadium</string>
+    <string name="game_2">AI Warah SC VS AL Rayyan</string>
+    <string name="schedule_2">22-May-2021, 7:00:00 AM</string>
+
+    <string name="tournament_3">Tournament 3</string>
+    <string name="venue_3">AI Janoub Stadium</string>
+    <string name="game_3">UEFA Nations League</string>
+    <string name="schedule_3">15-June-2021, 8:00:00 AM</string>
+
+    <string name="tournament_4">Tournament 4</string>
+    <string name="venue_4">AI Khor Stadium</string>
+    <string name="game_4">AI Warah SC VS AL Rayyan</string>
+    <string name="schedule_4">22-May-2021, 7:00:00 AM</string>
+
+    <string name="events">Events</string>
+    <string name="requests">Requests</string>
+    <string name="enrollments">Enrollments</string>
+    <string name="notifications">Notifications</string>
+
+</resources>
